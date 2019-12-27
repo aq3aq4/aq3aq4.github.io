@@ -2,5 +2,5 @@
 ​```python
 def print_hi(name):
   print("hello", name)
-print_hi('Tom')
+print_hi('오뚜기 ㅎㅇ')
 ​```
