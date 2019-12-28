@@ -108,8 +108,8 @@ analytics:
 # Site Author
 author:
   name             : "조우현"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "기억보다 기록을 하기 위한 혼자 알기보단 공유와 피드백을 받기 위한 공간"
+  avatar           : "/assets/images/blogProfile.jpeg"
+  bio              : "기억보다 기록을, 혼자 알기보단 공유와 피드백을 받기 위한 공간"
   location         : "대한민국"
   email            :
   links:
