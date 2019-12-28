@@ -2,6 +2,7 @@
 title: "저는 누구일까요?"
 permalink: /about/
 layout: single
+author_profile: true
 ---
 
 # 저는요!
