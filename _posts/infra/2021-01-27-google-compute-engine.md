@@ -1,12 +1,11 @@
 ---
-title: "구글 클라우드 수업"
+title: "Compute Engine 인스턴스 만들고 연결하기"
 categories: 
     - Cloud
 tags: 
     - Cloud
     - 수업자료
 ---
-# Compute Engine 
 
 ## 인스턴스 생성
 
